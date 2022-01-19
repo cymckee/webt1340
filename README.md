@@ -1,3 +1,3 @@
 
 
-<a href ="Project Page/index.html">Project Page</a>
+<a href ="Project Page/index.html" target="_blank">Project Page</a>
