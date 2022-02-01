@@ -6,10 +6,10 @@
 
 <h2>Project 3</h2>
 <ul>
-<li><a href="zooicons.ai">Project 3 - Chapter Work</a></li>
-<li><a href="cincinnatiZoo.ai">Project 3 - Chapter Work</a></li>
-<li><a href="invitation.ai">Project 3 - Chapter Work</a></li>
-<li><a href="cafe-logo.ai">Project 3- Portfolio Builder</a></li>
-<li><a href="stationary.ai">Project 3- Portfolio Builder</a></li>
+<li><a href="Project/Project/zooicons.ai">Project 3 - Chapter Work</a></li>
+<li><a href="Project/Project/cincinnatiZoo.ai">Project 3 - Chapter Work</a></li>
+<li><a href="Project/Project/invitation.ai">Project 3 - Chapter Work</a></li>
+<li><a href="Project/Project/cafe-logo.ai">Project 3- Portfolio Builder</a></li>
+<li><a href="Project/Project/stationary.ai">Project 3- Portfolio Builder</a></li>
 
 </ul>
