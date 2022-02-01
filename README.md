@@ -2,8 +2,7 @@
 Basic Web Graphics
 <h2>Project 1</h2>
 <ul>
-<li><a href="tournamenticons.ai">Project 1 - Chapter Work</a></li>
-<li><a href="icons1.ai">Project 1 - Portfolio Builder</a></li>
+<li><a href="project/tournamenticons.ai">Project 1 - Chapter Work</a></li>
 </ul>
 
 <h2>Project 3</h2>
