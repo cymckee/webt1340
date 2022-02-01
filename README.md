@@ -8,11 +8,11 @@ Basic Web Graphics
 
 <h2>Project 3</h2>
 <ul>
-<li><a href="zooicons.ai">Project 3 - Chapter Work</a></li>
-<li><a href="cincinnatiZoo.ai">Project 3 - Chapter Work</a></li>
-<li><a href="invitation.ai">Project 3 - Chapter Work</a></li>
-<li><a href="cafe-logo.ai">Project 3- Portfolio Builder</a></li>
-<li><a href="stationary.ai">Project 3- Portfolio Builder</a></li>
+<li><a href="project/zooicons.ai">Project 3 - Chapter Work</a></li>
+<li><a href="project/cincinnatiZoo.ai">Project 3 - Chapter Work</a></li>
+<li><a href="project/invitation.ai">Project 3 - Chapter Work</a></li>
+<li><a href="project/cafe-logo.ai">Project 3- Portfolio Builder</a></li>
+<li><a href="project/stationary.ai">Project 3- Portfolio Builder</a></li>
 
 </ul>
-/Users/chozen1customz/Documents/GitHub/webt1340/Project/invitation.ai
+
