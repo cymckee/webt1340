@@ -9,6 +9,8 @@ Basic Web Graphics
 <h2>Project 3</h2>
 <ul>
 <li><a href="WEBT1340/Project1/zooicons.ai">Project 3 - Chapter Work</a></li>
+
+<li><a href="webt1340/zooicons.ai">Project 3 - Chapter Work</a></li>
 <li><a href="Project1/cincinnatiZoo.ai">Project 3 - Chapter Work</a></li>
 <li><a href="Project1/invitation.ai">Project 3 - Chapter Work</a></li>
 <li><a href="Project1/cafe-logo.ai">Project 3- Portfolio Builder</a></li>
