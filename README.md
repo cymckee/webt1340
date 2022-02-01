@@ -2,8 +2,8 @@
 Basic Web Graphics
 <h2>Project 1</h2>
 <ul>
-<li><a href="WEB1340/tournamenticons.ai">Project 1 - Chapter Work</a></li>
-<li><a href="WEBT1340/icons (1).ai">Project 1 - Portfolio Builder</a></li>
+<li><a href="WEB1340/icons">Project 1 - Chapter Work</a></li>
+<li><a href="WEBT1340/tournamenticons.pdf">Project 1 - Portfolio Builder</a></li>
 </ul>
 
 <h2>Project 3</h2>
