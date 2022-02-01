@@ -1,6 +1,6 @@
 # webt1340
 Basic Web Graphics
-<h2>Project </h2>
+<h2>Project 1</h2>
 <ul>
 <li><a href="Project1/tournamenticons.ai">Project 1 - Chapter Work</a></li>
 <li><a href="Project1/icons1.ai">Project 1 - Portfolio Builder</a></li>
